@@ -1,0 +1,8 @@
+app-dir: D:\My Storage Place\Cloud\HDP\MyWebApp
+disk: 2048
+
+memory: 256
+
+name: MyWebApp
+
+framework: php
